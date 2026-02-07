@@ -16,4 +16,4 @@ I created this repository to:
 - Build a digital portfolio
 
 ## Author
-Mani – Pharmacy Student
+Manvi Yadav – Pharmacy Student
